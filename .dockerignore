@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+.git
+.gitignore
+.gitattributes
+.data/
+data/
+*.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+.streamlit/
+**/node_modules/
+**/.venv/
+
